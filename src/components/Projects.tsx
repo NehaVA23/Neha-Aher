@@ -16,7 +16,7 @@ const projects = [
       "An AI-powered platform designed to conduct mock interviews with real-time feedback using voice and text-based interactions. Helps candidates improve communication and interview performance through intelligent response analysis.",
     tags: ["React.js", "Gemini API", "Python", "Django"],
     github: "https://github.com/NehaVA23/Virtual-Job-Interview",
-    live: "https://example.com",
+    
   },
   {
     title: "Student Document Generator",
@@ -24,7 +24,7 @@ const projects = [
       "An automated system for generating academic documents and certificates by retrieving student data from a database, reducing manual effort and improving accuracy and efficiency.",
     tags: ["PHP", "SQL", "HTML", "CSS", "Bootstrap"],
     github: "https://github.com",
-    live: "https://example.com",
+    
   },
   {
     title: "SmartSched – Dynamic Classroom Scheduler",
@@ -39,8 +39,8 @@ const projects = [
     description:
       "A web-based maritime navigation platform that combines real-time marine and weather data with a custom A* pathfinding engine to chart the fastest, most fuel-efficient sea routes helping reduce costs and environmental impact.",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB", "A* Pathfinding", "Leaflet.js"],
-    github: "https://github.com",
-    live: "https://example.com",
+    github: "https://github.com/NehaVA23/JalMarg-2.0",
+    
   },
 ];
 
